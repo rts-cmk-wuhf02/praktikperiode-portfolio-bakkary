@@ -1,0 +1,135 @@
+
+*{
+    margin:0;
+    padding: 0;
+    text-decoration: none;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+
+table{
+    margin-left: 20%;
+}
+table tr td img{
+padding: 200px 50px;    
+}
+
+
+
+
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+
+  #container {
+	max-width: 100%;
+	padding: 20px;
+    margin: 0 auto;
+    background: #2c3e50;  /* fallback for old browsers */
+    background: -webkit-linear-gradient( #2c3e50, #3498db);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(#2c3e50, #3498db ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+.main-header #container {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+
+.main-nav ul {
+	margin: 1em 0 .5em;
+	text-align: center;
+}
+.main-nav li {
+	display: inline;
+}
+.main-nav a {
+	display: inline-block;
+	padding: .5em 1.5em;
+}
+
+
+
+
+
+
+
+#wheel__of_fortune {
+    text-align: center;
+}
+
+
+
+
+
+.prizeimg{
+    height: 200px;
+
+    background: #2c3e50;  /* fallback for old browsers */
+background: -webkit-linear-gradient(  #3498db, #2c3e50);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(  #3498db, #2c3e50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+#prizetext{
+    text-align: center;
+    font-size: 3em; 
+}
+
+
+#money{
+    font-size: 2rem;
+}
+
+#spinner__cheat_sheet{
+    display: none;
+}
+
+.showhide__div{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+#footer{
+    background: #2c3e50;  /* fallback for old browsers */
+background: -webkit-linear-gradient( #2c3e50, #3498db);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(#2c3e50, #3498db ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
